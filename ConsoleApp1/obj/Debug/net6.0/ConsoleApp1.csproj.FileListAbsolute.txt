@@ -1,0 +1,14 @@
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+f:\Dotnet\DotNet\Visual_Studio\sep22\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
